@@ -8,5 +8,5 @@ I was lucky in November 2023 and was able to download two zip files `EGM2008_Int
 
 The grid at 1' resolution is available at: https://grid-partner-share.s3.amazonaws.com/egm2008/Und_min1x1_egm2008_isw%3D82_WGS84_TideFree.gz
 
-Some discussion about about parsing the file at
+Some discussion about parsing the file at
 https://github.com/OSGeo/PROJ-data/issues/111
